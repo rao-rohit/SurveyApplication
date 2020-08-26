@@ -1,0 +1,133 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.0/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.0": {},
+    ".NETStandard,Version=v2.0/": {
+      "CSFactoryMiddleLayer/1.0.0": {
+        "dependencies": {
+          "CSMiddleLayer": "1.0.0",
+          "CSMiddleLayerContract": "1.0.0",
+          "CSMiddleLayerValidation": "1.0.0",
+          "NETStandard.Library": "2.0.3",
+          "Unity": "5.9.3"
+        },
+        "runtime": {
+          "CSFactoryMiddleLayer.dll": {}
+        }
+      },
+      "Microsoft.NETCore.Platforms/1.1.0": {},
+      "NETStandard.Library/2.0.3": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      },
+      "System.Runtime.CompilerServices.Unsafe/4.5.0": {
+        "runtime": {
+          "lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll": {
+            "assemblyVersion": "4.0.4.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "System.ValueTuple/4.5.0": {},
+      "Unity/5.9.3": {
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "4.5.0",
+          "System.ValueTuple": "4.5.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Unity.Abstractions.dll": {
+            "assemblyVersion": "4.0.2.0",
+            "fileVersion": "4.0.2.0"
+          },
+          "lib/netstandard2.0/Unity.Container.dll": {
+            "assemblyVersion": "5.9.3.0",
+            "fileVersion": "5.9.3.0"
+          }
+        }
+      },
+      "CSMiddleLayer/1.0.0": {
+        "dependencies": {
+          "CSMiddleLayerContract": "1.0.0"
+        },
+        "runtime": {
+          "CSMiddleLayer.dll": {}
+        }
+      },
+      "CSMiddleLayerContract/1.0.0": {
+        "runtime": {
+          "CSMiddleLayerContract.dll": {}
+        }
+      },
+      "CSMiddleLayerValidation/1.0.0": {
+        "dependencies": {
+          "CSMiddleLayerContract": "1.0.0"
+        },
+        "runtime": {
+          "CSMiddleLayerValidation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSFactoryMiddleLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
+      "path": "netstandard.library/2.0.3",
+      "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
+    },
+    "System.Runtime.CompilerServices.Unsafe/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YrzNWduCDHhUaSRBxHxL11UkM2fD6y8hITHis4/LbQZ6vj3vdRjoH3IoPWWC9uDXK2wHIqn+b5gv1Np/VKyM1g==",
+      "path": "system.runtime.compilerservices.unsafe/4.5.0",
+      "hashPath": "system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512"
+    },
+    "System.ValueTuple/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-okurQJO6NRE/apDIP23ajJ0hpiNmJ+f0BwOlB/cSqTLQlw5upkf+5+96+iG2Jw40G1fCVCyPz/FhIABUjMR+RQ==",
+      "path": "system.valuetuple/4.5.0",
+      "hashPath": "system.valuetuple.4.5.0.nupkg.sha512"
+    },
+    "Unity/5.9.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KdwNNLE4dmTAUV1PtUHI6V9LL8P4R2d4YK8+qxyzTLiItiST43l9O99ajUmEVK91FITVxzsMrlaA7sA7luz58g==",
+      "path": "unity/5.9.3",
+      "hashPath": "unity.5.9.3.nupkg.sha512"
+    },
+    "CSMiddleLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CSMiddleLayerContract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CSMiddleLayerValidation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

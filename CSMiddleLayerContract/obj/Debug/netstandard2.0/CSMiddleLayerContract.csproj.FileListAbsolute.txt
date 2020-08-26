@@ -1,0 +1,17 @@
+C:\Users\Manisha\source\repos\CoStrategix\CSMiddleLayerContract\bin\Debug\netstandard2.0\CSMiddleLayerContract.deps.json
+C:\Users\Manisha\source\repos\CoStrategix\CSMiddleLayerContract\bin\Debug\netstandard2.0\CSMiddleLayerContract.dll
+C:\Users\Manisha\source\repos\CoStrategix\CSMiddleLayerContract\bin\Debug\netstandard2.0\CSMiddleLayerContract.pdb
+C:\Users\Manisha\source\repos\CoStrategix\CSMiddleLayerContract\obj\Debug\netstandard2.0\CSMiddleLayerContract.csproj.CoreCompileInputs.cache
+C:\Users\Manisha\source\repos\CoStrategix\CSMiddleLayerContract\obj\Debug\netstandard2.0\CSMiddleLayerContract.AssemblyInfoInputs.cache
+C:\Users\Manisha\source\repos\CoStrategix\CSMiddleLayerContract\obj\Debug\netstandard2.0\CSMiddleLayerContract.AssemblyInfo.cs
+C:\Users\Manisha\source\repos\CoStrategix\CSMiddleLayerContract\obj\Debug\netstandard2.0\CSMiddleLayerContract.dll
+C:\Users\Manisha\source\repos\CoStrategix\CSMiddleLayerContract\obj\Debug\netstandard2.0\CSMiddleLayerContract.pdb
+D:\Git\Survey Application\SurveyApplication-master\CoStrategix\CoStrategix\CSMiddleLayerContract\bin\Debug\netstandard2.0\CSMiddleLayerContract.deps.json
+D:\Git\Survey Application\SurveyApplication-master\CoStrategix\CoStrategix\CSMiddleLayerContract\bin\Debug\netstandard2.0\CSMiddleLayerContract.dll
+D:\Git\Survey Application\SurveyApplication-master\CoStrategix\CoStrategix\CSMiddleLayerContract\bin\Debug\netstandard2.0\CSMiddleLayerContract.pdb
+D:\Git\Survey Application\SurveyApplication-master\CoStrategix\CoStrategix\CSMiddleLayerContract\obj\Debug\netstandard2.0\CSMiddleLayerContract.csprojAssemblyReference.cache
+D:\Git\Survey Application\SurveyApplication-master\CoStrategix\CoStrategix\CSMiddleLayerContract\obj\Debug\netstandard2.0\CSMiddleLayerContract.AssemblyInfoInputs.cache
+D:\Git\Survey Application\SurveyApplication-master\CoStrategix\CoStrategix\CSMiddleLayerContract\obj\Debug\netstandard2.0\CSMiddleLayerContract.AssemblyInfo.cs
+D:\Git\Survey Application\SurveyApplication-master\CoStrategix\CoStrategix\CSMiddleLayerContract\obj\Debug\netstandard2.0\CSMiddleLayerContract.csproj.CoreCompileInputs.cache
+D:\Git\Survey Application\SurveyApplication-master\CoStrategix\CoStrategix\CSMiddleLayerContract\obj\Debug\netstandard2.0\CSMiddleLayerContract.dll
+D:\Git\Survey Application\SurveyApplication-master\CoStrategix\CoStrategix\CSMiddleLayerContract\obj\Debug\netstandard2.0\CSMiddleLayerContract.pdb

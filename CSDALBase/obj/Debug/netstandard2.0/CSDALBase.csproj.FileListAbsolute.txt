@@ -1,0 +1,24 @@
+C:\Users\Manisha\source\repos\CoStrategix\CSDALBase\obj\Debug\netstandard2.0\CSDALBase.csproj.CoreCompileInputs.cache
+C:\Users\Manisha\source\repos\CoStrategix\CSDALBase\obj\Debug\netstandard2.0\CSDALBase.AssemblyInfoInputs.cache
+C:\Users\Manisha\source\repos\CoStrategix\CSDALBase\obj\Debug\netstandard2.0\CSDALBase.AssemblyInfo.cs
+C:\Users\Manisha\source\repos\CoStrategix\CSDALBase\obj\Debug\netstandard2.0\CSDALBase.csprojAssemblyReference.cache
+C:\Users\Manisha\source\repos\CoStrategix\CSDALBase\bin\Debug\netstandard2.0\CSDALBase.deps.json
+C:\Users\Manisha\source\repos\CoStrategix\CSDALBase\bin\Debug\netstandard2.0\CSDALBase.dll
+C:\Users\Manisha\source\repos\CoStrategix\CSDALBase\bin\Debug\netstandard2.0\CSDALBase.pdb
+C:\Users\Manisha\source\repos\CoStrategix\CSDALBase\bin\Debug\netstandard2.0\CSDALContract.dll
+C:\Users\Manisha\source\repos\CoStrategix\CSDALBase\bin\Debug\netstandard2.0\CSDALContract.pdb
+C:\Users\Manisha\source\repos\CoStrategix\CSDALBase\obj\Debug\netstandard2.0\CSDALBase.csproj.CopyComplete
+C:\Users\Manisha\source\repos\CoStrategix\CSDALBase\obj\Debug\netstandard2.0\CSDALBase.dll
+C:\Users\Manisha\source\repos\CoStrategix\CSDALBase\obj\Debug\netstandard2.0\CSDALBase.pdb
+D:\Git\Survey Application\SurveyApplication-master\CoStrategix\CoStrategix\CSDALBase\bin\Debug\netstandard2.0\CSDALBase.deps.json
+D:\Git\Survey Application\SurveyApplication-master\CoStrategix\CoStrategix\CSDALBase\bin\Debug\netstandard2.0\CSDALBase.dll
+D:\Git\Survey Application\SurveyApplication-master\CoStrategix\CoStrategix\CSDALBase\bin\Debug\netstandard2.0\CSDALBase.pdb
+D:\Git\Survey Application\SurveyApplication-master\CoStrategix\CoStrategix\CSDALBase\bin\Debug\netstandard2.0\CSDALContract.dll
+D:\Git\Survey Application\SurveyApplication-master\CoStrategix\CoStrategix\CSDALBase\bin\Debug\netstandard2.0\CSDALContract.pdb
+D:\Git\Survey Application\SurveyApplication-master\CoStrategix\CoStrategix\CSDALBase\obj\Debug\netstandard2.0\CSDALBase.csprojAssemblyReference.cache
+D:\Git\Survey Application\SurveyApplication-master\CoStrategix\CoStrategix\CSDALBase\obj\Debug\netstandard2.0\CSDALBase.AssemblyInfoInputs.cache
+D:\Git\Survey Application\SurveyApplication-master\CoStrategix\CoStrategix\CSDALBase\obj\Debug\netstandard2.0\CSDALBase.AssemblyInfo.cs
+D:\Git\Survey Application\SurveyApplication-master\CoStrategix\CoStrategix\CSDALBase\obj\Debug\netstandard2.0\CSDALBase.csproj.CoreCompileInputs.cache
+D:\Git\Survey Application\SurveyApplication-master\CoStrategix\CoStrategix\CSDALBase\obj\Debug\netstandard2.0\CSDALBase.csproj.CopyComplete
+D:\Git\Survey Application\SurveyApplication-master\CoStrategix\CoStrategix\CSDALBase\obj\Debug\netstandard2.0\CSDALBase.dll
+D:\Git\Survey Application\SurveyApplication-master\CoStrategix\CoStrategix\CSDALBase\obj\Debug\netstandard2.0\CSDALBase.pdb

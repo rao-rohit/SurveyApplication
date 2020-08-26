@@ -1,0 +1,28 @@
+C:\Users\Manisha\source\repos\CoStrategix\CSAdoNetDAL\bin\Debug\netcoreapp2.1\CSDALBase.dll
+C:\Users\Manisha\source\repos\CoStrategix\CSAdoNetDAL\bin\Debug\netcoreapp2.1\CSDALContract.dll
+C:\Users\Manisha\source\repos\CoStrategix\CSAdoNetDAL\obj\Debug\netcoreapp2.1\CSAdoNetDAL.csproj.CoreCompileInputs.cache
+C:\Users\Manisha\source\repos\CoStrategix\CSAdoNetDAL\obj\Debug\netcoreapp2.1\CSAdoNetDAL.AssemblyInfoInputs.cache
+C:\Users\Manisha\source\repos\CoStrategix\CSAdoNetDAL\obj\Debug\netcoreapp2.1\CSAdoNetDAL.AssemblyInfo.cs
+C:\Users\Manisha\source\repos\CoStrategix\CSAdoNetDAL\obj\Debug\netcoreapp2.1\CSAdoNetDAL.csprojAssemblyReference.cache
+C:\Users\Manisha\source\repos\CoStrategix\CSAdoNetDAL\bin\Debug\netcoreapp2.1\CSAdoNetDAL.deps.json
+C:\Users\Manisha\source\repos\CoStrategix\CSAdoNetDAL\bin\Debug\netcoreapp2.1\CSAdoNetDAL.dll
+C:\Users\Manisha\source\repos\CoStrategix\CSAdoNetDAL\bin\Debug\netcoreapp2.1\CSAdoNetDAL.pdb
+C:\Users\Manisha\source\repos\CoStrategix\CSAdoNetDAL\bin\Debug\netcoreapp2.1\CSDALBase.pdb
+C:\Users\Manisha\source\repos\CoStrategix\CSAdoNetDAL\bin\Debug\netcoreapp2.1\CSDALContract.pdb
+C:\Users\Manisha\source\repos\CoStrategix\CSAdoNetDAL\obj\Debug\netcoreapp2.1\CSAdoNetDAL.csproj.CopyComplete
+C:\Users\Manisha\source\repos\CoStrategix\CSAdoNetDAL\obj\Debug\netcoreapp2.1\CSAdoNetDAL.dll
+C:\Users\Manisha\source\repos\CoStrategix\CSAdoNetDAL\obj\Debug\netcoreapp2.1\CSAdoNetDAL.pdb
+D:\Git\Survey Application\SurveyApplication-master\CoStrategix\CoStrategix\CSAdoNetDAL\bin\Debug\netcoreapp2.1\CSAdoNetDAL.deps.json
+D:\Git\Survey Application\SurveyApplication-master\CoStrategix\CoStrategix\CSAdoNetDAL\bin\Debug\netcoreapp2.1\CSAdoNetDAL.dll
+D:\Git\Survey Application\SurveyApplication-master\CoStrategix\CoStrategix\CSAdoNetDAL\bin\Debug\netcoreapp2.1\CSAdoNetDAL.pdb
+D:\Git\Survey Application\SurveyApplication-master\CoStrategix\CoStrategix\CSAdoNetDAL\bin\Debug\netcoreapp2.1\CSDALBase.dll
+D:\Git\Survey Application\SurveyApplication-master\CoStrategix\CoStrategix\CSAdoNetDAL\bin\Debug\netcoreapp2.1\CSDALContract.dll
+D:\Git\Survey Application\SurveyApplication-master\CoStrategix\CoStrategix\CSAdoNetDAL\bin\Debug\netcoreapp2.1\CSDALBase.pdb
+D:\Git\Survey Application\SurveyApplication-master\CoStrategix\CoStrategix\CSAdoNetDAL\bin\Debug\netcoreapp2.1\CSDALContract.pdb
+D:\Git\Survey Application\SurveyApplication-master\CoStrategix\CoStrategix\CSAdoNetDAL\obj\Debug\netcoreapp2.1\CSAdoNetDAL.csprojAssemblyReference.cache
+D:\Git\Survey Application\SurveyApplication-master\CoStrategix\CoStrategix\CSAdoNetDAL\obj\Debug\netcoreapp2.1\CSAdoNetDAL.AssemblyInfoInputs.cache
+D:\Git\Survey Application\SurveyApplication-master\CoStrategix\CoStrategix\CSAdoNetDAL\obj\Debug\netcoreapp2.1\CSAdoNetDAL.AssemblyInfo.cs
+D:\Git\Survey Application\SurveyApplication-master\CoStrategix\CoStrategix\CSAdoNetDAL\obj\Debug\netcoreapp2.1\CSAdoNetDAL.csproj.CoreCompileInputs.cache
+D:\Git\Survey Application\SurveyApplication-master\CoStrategix\CoStrategix\CSAdoNetDAL\obj\Debug\netcoreapp2.1\CSAdoNetDAL.csproj.CopyComplete
+D:\Git\Survey Application\SurveyApplication-master\CoStrategix\CoStrategix\CSAdoNetDAL\obj\Debug\netcoreapp2.1\CSAdoNetDAL.dll
+D:\Git\Survey Application\SurveyApplication-master\CoStrategix\CoStrategix\CSAdoNetDAL\obj\Debug\netcoreapp2.1\CSAdoNetDAL.pdb

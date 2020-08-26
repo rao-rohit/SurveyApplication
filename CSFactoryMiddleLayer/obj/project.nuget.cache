@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "amuwaTArLyfHfwpkWSlAhD6apNWnSH1YEjDaV0IIWHBUZ0QXcc5OmP134is1Zn8lOSFNEysYqyI9KQyy+mhzWw==",
+  "success": true,
+  "projectFilePath": "D:\\Git\\CoolSurvey\\CSFactoryMiddleLayer\\CSFactoryMiddleLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Manisha\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Manisha\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Manisha\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
+    "C:\\Users\\Manisha\\.nuget\\packages\\unity\\5.9.3\\unity.5.9.3.nupkg.sha512"
+  ],
+  "logs": []
+}

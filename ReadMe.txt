@@ -1,3 +1,5 @@
+Architecture Design of DAL (To support multiple datasources):
+
 1. CSMiddleLayerContract - Project that is used for creating contract for entities & Validation
 2. CSMiddleLayerValidation - Validation rules for entities - Used as Strategy pattern
 3. CSMiddleLayer - Entites POCO and implements CSMiddleLayerContract, Implements IValidation<T>

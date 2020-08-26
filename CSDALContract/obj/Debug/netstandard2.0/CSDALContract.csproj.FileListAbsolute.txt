@@ -1,0 +1,17 @@
+C:\Users\Manisha\source\repos\CoStrategix\CSDALContract\obj\Debug\netstandard2.0\CSDALContract.csproj.CoreCompileInputs.cache
+C:\Users\Manisha\source\repos\CoStrategix\CSDALContract\obj\Debug\netstandard2.0\CSDALContract.AssemblyInfoInputs.cache
+C:\Users\Manisha\source\repos\CoStrategix\CSDALContract\obj\Debug\netstandard2.0\CSDALContract.AssemblyInfo.cs
+C:\Users\Manisha\source\repos\CoStrategix\CSDALContract\bin\Debug\netstandard2.0\CSDALContract.deps.json
+C:\Users\Manisha\source\repos\CoStrategix\CSDALContract\bin\Debug\netstandard2.0\CSDALContract.dll
+C:\Users\Manisha\source\repos\CoStrategix\CSDALContract\bin\Debug\netstandard2.0\CSDALContract.pdb
+C:\Users\Manisha\source\repos\CoStrategix\CSDALContract\obj\Debug\netstandard2.0\CSDALContract.dll
+C:\Users\Manisha\source\repos\CoStrategix\CSDALContract\obj\Debug\netstandard2.0\CSDALContract.pdb
+D:\Git\Survey Application\SurveyApplication-master\CoStrategix\CoStrategix\CSDALContract\bin\Debug\netstandard2.0\CSDALContract.deps.json
+D:\Git\Survey Application\SurveyApplication-master\CoStrategix\CoStrategix\CSDALContract\bin\Debug\netstandard2.0\CSDALContract.dll
+D:\Git\Survey Application\SurveyApplication-master\CoStrategix\CoStrategix\CSDALContract\bin\Debug\netstandard2.0\CSDALContract.pdb
+D:\Git\Survey Application\SurveyApplication-master\CoStrategix\CoStrategix\CSDALContract\obj\Debug\netstandard2.0\CSDALContract.csprojAssemblyReference.cache
+D:\Git\Survey Application\SurveyApplication-master\CoStrategix\CoStrategix\CSDALContract\obj\Debug\netstandard2.0\CSDALContract.AssemblyInfoInputs.cache
+D:\Git\Survey Application\SurveyApplication-master\CoStrategix\CoStrategix\CSDALContract\obj\Debug\netstandard2.0\CSDALContract.AssemblyInfo.cs
+D:\Git\Survey Application\SurveyApplication-master\CoStrategix\CoStrategix\CSDALContract\obj\Debug\netstandard2.0\CSDALContract.csproj.CoreCompileInputs.cache
+D:\Git\Survey Application\SurveyApplication-master\CoStrategix\CoStrategix\CSDALContract\obj\Debug\netstandard2.0\CSDALContract.dll
+D:\Git\Survey Application\SurveyApplication-master\CoStrategix\CoStrategix\CSDALContract\obj\Debug\netstandard2.0\CSDALContract.pdb

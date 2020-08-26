@@ -1,0 +1,24 @@
+C:\Users\Manisha\source\repos\CoStrategix\CSMiddleLayerValidation\obj\Debug\netstandard2.0\CSMiddleLayerValidation.csprojAssemblyReference.cache
+C:\Users\Manisha\source\repos\CoStrategix\CSMiddleLayerValidation\obj\Debug\netstandard2.0\CSMiddleLayerValidation.csproj.CoreCompileInputs.cache
+C:\Users\Manisha\source\repos\CoStrategix\CSMiddleLayerValidation\obj\Debug\netstandard2.0\CSMiddleLayerValidation.AssemblyInfoInputs.cache
+C:\Users\Manisha\source\repos\CoStrategix\CSMiddleLayerValidation\obj\Debug\netstandard2.0\CSMiddleLayerValidation.AssemblyInfo.cs
+C:\Users\Manisha\source\repos\CoStrategix\CSMiddleLayerValidation\bin\Debug\netstandard2.0\CSMiddleLayerValidation.deps.json
+C:\Users\Manisha\source\repos\CoStrategix\CSMiddleLayerValidation\bin\Debug\netstandard2.0\CSMiddleLayerValidation.dll
+C:\Users\Manisha\source\repos\CoStrategix\CSMiddleLayerValidation\bin\Debug\netstandard2.0\CSMiddleLayerValidation.pdb
+C:\Users\Manisha\source\repos\CoStrategix\CSMiddleLayerValidation\bin\Debug\netstandard2.0\CSMiddleLayerContract.dll
+C:\Users\Manisha\source\repos\CoStrategix\CSMiddleLayerValidation\bin\Debug\netstandard2.0\CSMiddleLayerContract.pdb
+C:\Users\Manisha\source\repos\CoStrategix\CSMiddleLayerValidation\obj\Debug\netstandard2.0\CSMiddleLayerValidation.csproj.CopyComplete
+C:\Users\Manisha\source\repos\CoStrategix\CSMiddleLayerValidation\obj\Debug\netstandard2.0\CSMiddleLayerValidation.dll
+C:\Users\Manisha\source\repos\CoStrategix\CSMiddleLayerValidation\obj\Debug\netstandard2.0\CSMiddleLayerValidation.pdb
+D:\Git\Survey Application\SurveyApplication-master\CoStrategix\CoStrategix\CSMiddleLayerValidation\bin\Debug\netstandard2.0\CSMiddleLayerValidation.deps.json
+D:\Git\Survey Application\SurveyApplication-master\CoStrategix\CoStrategix\CSMiddleLayerValidation\bin\Debug\netstandard2.0\CSMiddleLayerValidation.dll
+D:\Git\Survey Application\SurveyApplication-master\CoStrategix\CoStrategix\CSMiddleLayerValidation\bin\Debug\netstandard2.0\CSMiddleLayerValidation.pdb
+D:\Git\Survey Application\SurveyApplication-master\CoStrategix\CoStrategix\CSMiddleLayerValidation\bin\Debug\netstandard2.0\CSMiddleLayerContract.dll
+D:\Git\Survey Application\SurveyApplication-master\CoStrategix\CoStrategix\CSMiddleLayerValidation\bin\Debug\netstandard2.0\CSMiddleLayerContract.pdb
+D:\Git\Survey Application\SurveyApplication-master\CoStrategix\CoStrategix\CSMiddleLayerValidation\obj\Debug\netstandard2.0\CSMiddleLayerValidation.csprojAssemblyReference.cache
+D:\Git\Survey Application\SurveyApplication-master\CoStrategix\CoStrategix\CSMiddleLayerValidation\obj\Debug\netstandard2.0\CSMiddleLayerValidation.AssemblyInfoInputs.cache
+D:\Git\Survey Application\SurveyApplication-master\CoStrategix\CoStrategix\CSMiddleLayerValidation\obj\Debug\netstandard2.0\CSMiddleLayerValidation.AssemblyInfo.cs
+D:\Git\Survey Application\SurveyApplication-master\CoStrategix\CoStrategix\CSMiddleLayerValidation\obj\Debug\netstandard2.0\CSMiddleLayerValidation.csproj.CoreCompileInputs.cache
+D:\Git\Survey Application\SurveyApplication-master\CoStrategix\CoStrategix\CSMiddleLayerValidation\obj\Debug\netstandard2.0\CSMiddleLayerValidation.csproj.CopyComplete
+D:\Git\Survey Application\SurveyApplication-master\CoStrategix\CoStrategix\CSMiddleLayerValidation\obj\Debug\netstandard2.0\CSMiddleLayerValidation.dll
+D:\Git\Survey Application\SurveyApplication-master\CoStrategix\CoStrategix\CSMiddleLayerValidation\obj\Debug\netstandard2.0\CSMiddleLayerValidation.pdb

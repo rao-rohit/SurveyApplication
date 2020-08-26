@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Unity" Version="5.9.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CSMiddleLayerContract\CSMiddleLayerContract.csproj" />
+    <ProjectReference Include="..\CSMiddleLayerValidation\CSMiddleLayerValidation.csproj" />
+    <ProjectReference Include="..\CSMiddleLayer\CSMiddleLayer.csproj" />
+  </ItemGroup>
+
+</Project>

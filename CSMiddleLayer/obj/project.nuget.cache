@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SFJKs3GUpS7hLXs6LsdjCCWQS+iXBn54eHr2zVEeFyYtyviK4HTuAzhf1+P3PzHf5qZV6nytBUt73BQi3taicA==",
+  "success": true,
+  "projectFilePath": "D:\\Git\\CoolSurvey\\CSMiddleLayer\\CSMiddleLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Manisha\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Manisha\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
